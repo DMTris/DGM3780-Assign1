@@ -14,7 +14,7 @@ Here is a short and sweet tutorial: https://guides.github.com/activities/forking
 Thats it! When you submit your Pull Request, an automatic build process will be kicked off to run the tests and check your code. You can see the results of this within the pull request.
 
 #Assignment
-For this assignment you will be practicing this process. After you clone the repo, open up the aboutme.js file and constuct a Javascript object with the fallowing properties.
+For this assignment you will be practicing this process. After you clone the repo, open up the aboutme.js file and construct a Javascript object with the following properties.
 
 name (String)
 
